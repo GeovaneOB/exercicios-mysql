@@ -1,0 +1,2 @@
+-- criando um banco de dados e o nomeando para vendas
+create database vendas;
