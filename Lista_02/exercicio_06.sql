@@ -1,0 +1,1 @@
+select * from Duplicata where Vencimento like '2017%';	

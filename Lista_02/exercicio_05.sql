@@ -1,0 +1,1 @@
+select count(*) from Duplicata where Banco = 'ITAU';

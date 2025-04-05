@@ -1,0 +1,1 @@
+select Numero, Banco from Duplicata where Banco = 'ITAU';

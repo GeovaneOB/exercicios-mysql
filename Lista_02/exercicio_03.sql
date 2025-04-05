@@ -1,0 +1,1 @@
+select Nome, Vencimento, Valor from Duplicata;

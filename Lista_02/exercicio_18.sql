@@ -1,0 +1,1 @@
+select avg(Valor) from Duplicata where year(Vencimento) = '2016'; 

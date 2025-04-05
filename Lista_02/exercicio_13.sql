@@ -1,0 +1,1 @@
+select Nome from Duplicata where Banco = 'BRADESCO';
